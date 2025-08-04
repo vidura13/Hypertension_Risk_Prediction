@@ -5,6 +5,12 @@ ML powered web app to estimate hypertension risk based on personal, lifestyle an
 
 ---
 
+## 🌐 Live Demo
+
+**Live Link:** [Hypertension Risk Prediction App](https://hypertensionriskpredictor.streamlit.app)
+
+---
+
 ## 🚀 Project Overview
 
 The Hypertension Risk Prediction app allows users to enter relevant health and lifestyle details to estimate their risk percentage and category — **Low**, **Moderate**, or **High** — using a trained machine learning model. The app is designed for accessibility and ease of use.
@@ -48,12 +54,6 @@ The Hypertension Risk Prediction app allows users to enter relevant health and l
 | Data Handling | pandas, NumPy |
 | Model Storage | joblib        |
 | Reporting     | fpdf          |
-
----
-
-## 🌐 Live Demo
-
-**Live Link:** [Hypertension Risk Prediction App](https://hypertensionriskpredictor.streamlit.app)
 
 ---
 
